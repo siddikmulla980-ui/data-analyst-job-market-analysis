@@ -23,11 +23,10 @@ This project analyzes the current job market for Data Analysts. The goal is to e
 - `dashboard/` : Power BI dashboard file (.pbix).
 - `README.md` : Project documentation.
 
-## 📈 Key Insights (Update this later!)
-*(Bhai, ye section jab aap project pura kar lo tab update karna)*
-- **Top Skill:** SQL is mentioned in X% of job postings.
-- **Top Location:** Bangalore/Mumbai are the top hiring hubs.
-- **Salary Trend:** Average salary for entry-level is X LPA.
+## 📈 Key Insights
+- **Top Skills:** Engineering (306 mentions), Data Analyst (279), Data Science (203).
+- **Top Tools:** Machine Learning, Python, SQL, Tableau, AWS.
+- **Top Hiring Companies:** Meta (70), Netflix (33), Amazon (18), Google (16).
 
 ## 🚀 How to Run This Project
 1. Clone the repository.
