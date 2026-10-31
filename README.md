@@ -35,4 +35,4 @@ This project analyzes the current job market for Data Analysts. The goal is to e
 3. Open the `.pbix` file in Power BI Desktop to interact with the dashboard.
 
 ---
-*Created by [Siddik Mullah](https://github.com/siddikmulla980-ui)*
+*Created by [Siddik Mulla](https://github.com/siddikmulla980-ui)*
