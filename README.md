@@ -33,5 +33,11 @@ This project analyzes the current job market for Data Analysts. The goal is to e
 2. Open the Jupyter Notebook to view the data cleaning process.
 3. Open the `.pbix` file in Power BI Desktop to interact with the dashboard.
 
+
+## 📊 Power BI Dashboard
+I have also built an interactive Power BI dashboard to visualize the job market trends. 
+- **Dashboard Preview:** [Uploaded above]
+- **Key Visuals:** Top Hiring Companies, Most Demanded Job Titles, and Top Locations.
+
 ---
 *Created by [Siddik Mulla](https://github.com/siddikmulla980-ui)*
